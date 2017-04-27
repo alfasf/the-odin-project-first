@@ -3,7 +3,7 @@
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: arial, sans-serif;
   color: #fff;
   background-color: #fff;
   margin: 0;
@@ -19,6 +19,7 @@ body{
   position: relative;
   width: 100%;
   top: 10px;
+  left: 40%;
   }
 
 .top-header ul li{
@@ -37,14 +38,12 @@ a{
 
 #sign-in{
   border: 1px solid #4285f4;
-  border-radius: 2px;
+  border-radius: 1px;
   background-color: #4285f4;
   font-weight: 600;
   font-size: 13px;
   color: #fff;
-  margin-left: 10px;
   padding: 6px 12px;
-  letter-spacing: 1px
  }
 
 span img#sq-icon{
